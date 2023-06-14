@@ -8,3 +8,5 @@ describe('template spec', () => {
     cy.get('.btn-danger').click()
   })
 })
+
+//alteração trabalho
